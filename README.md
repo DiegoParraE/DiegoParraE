@@ -1,62 +1,46 @@
 # Hola, soy Diego Parra
 
-Front-end Developer enfocado en crear experiencias web modernas, dinámicas y escalables.
-Actualmente continúo aprendiendo y fortaleciendo mis habilidades en el desarrollo.
-
----
-
-## Sobre mí
-
-Me especializo en desarrollo Front-end con React, y constantemente exploro nuevas tecnologías.
-Me interesa construir interfaces rápidas, limpias y accesibles.
-Siempre estoy en proceso de aprendizaje continuo.
+Front-end Developer enfocado en crear experiencias web modernas, dinámicas y escalables.  
+Actualmente sigo aprendiendo y mejorando mis habilidades en el desarrollo.
 
 ---
 
 ## Tecnologías y herramientas
 
-### Front-end
+| Front-end | Back-end / Otros | Herramientas | Lenguajes Tipados |
+|-----------|----------------|-------------|-----------------|
+| HTML      | Node.js        | Git         | TypeScript      |
+| CSS       | Python         | GitHub      |                 |
+| JavaScript|                | Scrum       |                 |
+| React     |                | Netlify     |                 |
+| Next.js   |                |             |                 |
+| Tailwind  |                |             |                 |
+| Bootstrap |                |             |                 |
 
-* HTML
-* CSS
-* JavaScript
-* React
-* Next.js
-* Tailwind CSS
-* Bootstrap
+---
 
-### Back-end y otros
+## GitHub Stats
 
-* Node.js
-* Python
+| Estadísticas | Lenguajes más usados | Racha de contribuciones |
+|-------------|--------------------|------------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical) | ![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=radical) |
 
-### Herramientas
-
-* Git
-* GitHub
-* Scrum
-* Netlify
-
-### Lenguajes tipados
-
-* TypeScript
+> Cambia `DiegoParraE` por tu nombre de usuario de GitHub para que se generen tus stats reales.
 
 ---
 
 ## Contacto
 
-* Discord: Diego Espinosa#3114
-* LinkedIn: https://www.linkedin.com/in/diego-andr%C3%A9s-parra-espinosa-94b2b6138/
-* Portafolio: https://diegoparrae.github.io/bit07Me/
+- Discord: Diego Espinosa#3114  
+- LinkedIn: [Perfil](https://www.linkedin.com/in/diego-andr%C3%A9s-parra-espinosa-94b2b6138/)  
+- Portafolio: [Mi Web](https://diegoparrae.github.io/bit07Me/)
 
 ---
 
 ## Más sobre mí
 
-Me gusta convertir ideas en productos reales.
-Estoy enfocado en mejorar cada día como desarrollador.
+Me gusta convertir ideas en productos reales.  
+Estoy enfocado en mejorar cada día como desarrollador.  
 Abierto a nuevas oportunidades y colaboraciones.
 
----
-
-"El aprendizaje constante es la clave para construir el futuro."
+*"El aprendizaje constante es la clave para construir el futuro."*
