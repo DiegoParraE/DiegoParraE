@@ -2,8 +2,6 @@
 
 ### Mi Nombre es Diego Parra
 
-Soy de Colombia, Bogotá
-
 Actualmente me encuentro aprendiendo sobre este mundo de la programación
 
 Soy desarrollador Front-end con enfasis en React
