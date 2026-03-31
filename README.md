@@ -1,17 +1,62 @@
-## Hola! 👋🏼
+# Hola, soy Diego Parra
 
-### Mi Nombre es Diego Parra
+Front-end Developer enfocado en crear experiencias web modernas, dinámicas y escalables.
+Actualmente continúo aprendiendo y fortaleciendo mis habilidades en el desarrollo.
 
-Actualmente me encuentro aprendiendo sobre este mundo de la programación
+---
 
-Soy desarrollador Front-end con enfasis en React
+## Sobre mí
 
-### Temas que domino
+Me especializo en desarrollo Front-end con React, y constantemente exploro nuevas tecnologías.
+Me interesa construir interfaces rápidas, limpias y accesibles.
+Siempre estoy en proceso de aprendizaje continuo.
 
-<table><tbody><tr><td>HTML</td><td>CSS</td><td>JavaScript</td><td>React</td><td>Git</td><td>GitHub</td><td>Boostrap</td><td>Scrum</td><td>Netlify</td><td>Node.js</td></tr></tbody></table>
+---
 
-### Puedes contactarme por:
+## Tecnologías y herramientas
 
-*   Discord : Diego Espinosa#3114
-*   Linkedin: [https://www.linkedin.com/in/diego-andr%C3%A9s-parra-espinosa-94b2b6138/](https://www.linkedin.com/in/diego-andr%C3%A9s-parra-espinosa-94b2b6138/)
-*   Tarjeta de Presentación : [https://diegoparrae.github.io/bit07Me/](https://diegoparrae.github.io/bit07Me/)
+### Front-end
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Next.js
+* Tailwind CSS
+* Bootstrap
+
+### Back-end y otros
+
+* Node.js
+* Python
+
+### Herramientas
+
+* Git
+* GitHub
+* Scrum
+* Netlify
+
+### Lenguajes tipados
+
+* TypeScript
+
+---
+
+## Contacto
+
+* Discord: Diego Espinosa#3114
+* LinkedIn: https://www.linkedin.com/in/diego-andr%C3%A9s-parra-espinosa-94b2b6138/
+* Portafolio: https://diegoparrae.github.io/bit07Me/
+
+---
+
+## Más sobre mí
+
+Me gusta convertir ideas en productos reales.
+Estoy enfocado en mejorar cada día como desarrollador.
+Abierto a nuevas oportunidades y colaboraciones.
+
+---
+
+"El aprendizaje constante es la clave para construir el futuro."
